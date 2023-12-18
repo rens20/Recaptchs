@@ -43,6 +43,7 @@ textarea{
   display: flex;
   justify-content: center;
   justify-items: center;
+ position: fixed;
 
 }
 .codes{

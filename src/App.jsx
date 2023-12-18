@@ -278,13 +278,13 @@ const [scriptCode, setScriptCode] = useState(`
     </p>
     <div>
       <ul className='albert'>
-        - API author Albert
+        - API author Albert 
         <br></br>
         contributed:
         <br></br>
         - Rens  Acuña
         <br></br>
-        - john liby
+        - john liby 
       </ul>
     </div>
     </section>
