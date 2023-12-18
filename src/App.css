@@ -119,11 +119,11 @@ footer {
   }
 
   .text {
-    margin-left: 60px;
+    margin-left: 20px;
   }
 
   textarea {
-    margin-left: 10px;
+    margin-left: 0px;
   }
 
   .button {
