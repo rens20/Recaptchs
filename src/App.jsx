@@ -209,6 +209,7 @@ const [scriptCode, setScriptCode] = useState(`
         onChange={handleHtmlCodeChange}
         rows={10}
         cols={80}
+        readOnly
       />
     </div>
     </div>
@@ -236,6 +237,7 @@ const [scriptCode, setScriptCode] = useState(`
       onChange={handleBodyCode}
       rows={10}
       cols={80}
+      readOnly
       />
       </div>
 
@@ -265,6 +267,7 @@ const [scriptCode, setScriptCode] = useState(`
       onChange={handleScriptCodeChange}
       rows={10}
       cols={80}
+      readOnly
       />
       </div>
     </section>
@@ -284,7 +287,7 @@ const [scriptCode, setScriptCode] = useState(`
         <br></br>
         - Rens  Acuña
         <br></br>
-        - john liby 
+        - jan liby 
       </ul>
     </div>
     </section>

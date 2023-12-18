@@ -1,7 +1,7 @@
 
 
 
-body{
+*{
   background-color: #1e293b;
   margin: 0%;
   padding: 0%;
@@ -43,8 +43,6 @@ textarea{
   display: flex;
   justify-content: center;
   justify-items: center;
- position: fixed;
-
 }
 .codes{
   padding: 10px;
